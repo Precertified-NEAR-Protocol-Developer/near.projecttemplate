@@ -1,6 +1,8 @@
 # NEAR Protocol Project Template
-* **Objective** - The objective of this repository is to create a reusable project template with as little boilerplate code as possible
-* **Purpose** - To familiarize with the NEAR Protocol stack from the ground up
+* **Objective**
+    * The objective of this repository is to create a reusable project template with as little boilerplate code as possible
+* **Purpose**
+    * To familiarize with the NEAR Protocol stack from the ground up
 * **Description**
     * This project was created by following [this tutorial](https://curriculeon.github.io/Curriculeon/lectures/blockchain/near/my-first-project/content.html)
 
