@@ -1,10 +1,10 @@
 # NEAR Protocol Project Template
 * **Objective**
-    * The objective of this repository is to create a reusable project template with as little boilerplate code as possible
+    * to create a reusable project template with as little boilerplate code as possible
 * **Purpose**
-    * To familiarize with the NEAR Protocol stack from the ground up
+    * to familiarize with the NEAR Protocol stack from the ground up
 * **Description**
-    * This project was created by following [this tutorial](https://curriculeon.github.io/Curriculeon/lectures/blockchain/near/my-first-project/content.html)
+    * this project was created by following [this tutorial](https://curriculeon.github.io/Curriculeon/lectures/blockchain/near/my-first-project/content.html)
 
 ## Prerequisites
 * Ensure [NodeJS](https://curriculeon.github.io/Curriculeon/lectures/nodejs/installation/content.html) and [yarn](https://curriculeon.github.io/Curriculeon/lectures/nodejs/yarn-installation/content.html) are installed on your machine.
